@@ -6,6 +6,8 @@ on:
 
 jobs:
      build:
+     work:
+         on:
            runs-on: windows-latest
            
 steps:
